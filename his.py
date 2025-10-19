@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 
 # YouTube API Key
-API_KEY = “Enter your API Key here”
+API_KEY = “AIzaSyAGCbuynm_B6yr16ISp0Igt_DNDpUgGFVw”
 YOUTUBE_SEARCH_URL = “https://www.googleapis.com/youtube/v3/search”
 YOUTUBE_VIDEO_URL = “https://www.googleapis.com/youtube/v3/videos”
 YOUTUBE_CHANNEL_URL = “https://www.googleapis.com/youtube/v3/channels”
@@ -16,13 +16,13 @@ days = st.number_input(“Enter Days to Search (1-30):”, min_value=1, max_valu
 
 # List of broader keywords
 keywords = [
- "unsolved historical cases", “Reddit Update”, “Reddit unsolved historical cases", "unsolved historical cases", 
-“Reddit Cheating”, “AITA Update”, "lost civilizations", “Open Relationship”, "secret societies history", 
-"archaeological discoveries", "forbidden history Reddit”, “AskReddit missing persons history", “GurlCan Reddit”, 
-"hidden treasures", "declassified files", "unexplained events in history", 
-"Reddit royal family secrets", "vanished empires", "dark history", 
-"Reddit dark history", “historical conspiracy theories", “Reddit AP”, “rare historical facts", 
-“ mysterious deaths in history",“war mysteries”,“historical anomalies”,“famous heists in history”,“ hidden languages and scripts”,“lost civilizations”
+ ” unsolved historical cases”, “Reddit Update”, “Reddit unsolved historical cases”, “unsolved historical cases”, 
+“Reddit Cheating”, “AITA Update”, “lost civilizations”, “epic history”, “secret societies history”, 
+“Archaeological discoveries”, “ forbidden history Reddit”, “AskReddit missing persons history”, “GurlCan Reddit”, 
+“Hidden treasures”, “declassified files”, “unexplained events in history”, 
+“Reddit royal family secrets”, “vanished empires”, “dark history”, 
+“Reddit dark history “, “historical conspiracy theories “, “Reddit AP”, “ rare historical facts “, 
+“mysterious deaths in history “, “war mysteries”, “ historical anomalies”, “ famous heists in history”, “ hidden languages and scripts”, “lost civilizations”
 ]
  
 # Fetch Data Button

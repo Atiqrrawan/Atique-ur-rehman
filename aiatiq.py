@@ -21,7 +21,7 @@ from sklearn.decomposition import PCA
 
 # ----------------------- CONFIG -----------------------
 YOUTUBE_API_KEY = "AIzaSyByzQ8lLCore68ZNcm3tjyB0QDYKobLXEA"
-OPENAI_API_KEY ="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"  # used for AI idea generator & tag writer
+OPENAI_API_KEY = "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"  # used for AI idea generator & tag writer
 
 # Initialize YouTube client
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)

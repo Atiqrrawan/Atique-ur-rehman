@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 import streamlit as st
 
-API_KEY = os.getenv("AIzaSyAGCbuynm_B6yr16ISp0Igt_DNDpUgGFVw")
+API_KEY = os.getenv("AIzaSyByzQ8lLCore68ZNcm3tjyB0QDYKobLXEA")
 
 # API URLs
 SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"

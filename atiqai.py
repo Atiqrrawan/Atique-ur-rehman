@@ -16,7 +16,7 @@ from sklearn.decomposition import PCA
 
 # ----------------------- CONFIG -----------------------
 # IMPORTANT: Use Streamlit secrets for API keys instead of hardcoding
-YOUTUBE_API_KEY = st.secrets.get("AIzaSyByzQ8lLCore68ZNcm3tjyB0QDYKobLXEA", "")
+YOUTUBE_API_KEY = st.secrets.get("AIzaSyA31_v0xRKf5_KSM_I7wCbUNy8KKKZdRnU", "")
 OPENAI_API_KEY = st.secrets.get("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", "")
 
 # Initialize YouTube client

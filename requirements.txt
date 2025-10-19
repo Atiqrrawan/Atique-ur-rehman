@@ -16,3 +16,4 @@ pytesseract
 requests
 google-api-python-client
 opencv-python-headless
+

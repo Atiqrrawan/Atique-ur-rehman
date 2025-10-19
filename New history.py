@@ -22,7 +22,6 @@ keywords = [
 "royal family secrets", "vanished empires", "dark history", 
 "youtube dark history", "historical conspiracy theories", "rare historical facts", 
 "youtube mysterious deaths in history", "war mysteries", "Reddit AP", "historical anomalies", 
-"famous heists in history", "hidden languages and scripts", "lost civilizations”
 "unsolved historical cases", "Youtube Update", "Youtube unsolved historical cases", "Youtube lost civilizations", 
 "Youtube secret societies history", "AITA Update", " forbidden history", "archaeological discoveries", "missing persons history", 
 "hidden treasures", "unexplained events in history", "AskYoutube Surviving Infidelity", "GurlCan Youtube", 

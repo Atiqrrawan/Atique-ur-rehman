@@ -3,17 +3,7 @@ pandas
 numpy
 scikit-learn
 Pillow
-opencv-python
-pytesseract
-requests
-google-api-python-client
-streamlit
-pandas
-numpy
-scikit-learn
-Pillow
 pytesseract
 requests
 google-api-python-client
 opencv-python-headless
-
